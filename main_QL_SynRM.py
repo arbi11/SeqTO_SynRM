@@ -24,7 +24,6 @@ def main():
                       dd_size = params['design_domain_size'],
                       params=params
                       )    
-    
     ############
     # 0: Right #
     # 1: Left  #
@@ -36,7 +35,6 @@ def main():
     agent = QL_Agent(params = params, episode_length = episode_length)
     agent.train(env)
     
-
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
 
