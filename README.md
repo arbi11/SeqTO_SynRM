@@ -11,7 +11,15 @@ The proposed TO methodology transforms the material distribution problem into a 
 
 This method leverages a sequence-based environment to impose connectivity on cells containing the same material. The new TO method proposed in this paper neither requires any filtering or smoothing technique nor any modification to the optimization objective function for obtaining manufacturable optimal solutions.
 
-Furthermore, such a method facilitates the application of Reinforcement Learning algorithms. A test problem of rotor design optimization of a Synchronous Reluctance Machines is presented with the code.
+Furthermore, such a method facilitates the application of Reinforcement Learning algorithms. A test problem of rotor design optimization of a Synchronous Reluctance Machines (SynRM) is presented with the code.
+
+Design Domain: 
+
+![SynRM_dual_blank2](https://user-images.githubusercontent.com/25873155/145520904-9d5bf37d-667c-44e8-a601-e8d959902d28.png)
+
+SynRM with optimized rotor:
+
+![SyncRM_dual_end2](https://user-images.githubusercontent.com/25873155/145520842-ce61307d-4cc7-4293-991e-858369dc4ad3.png)
 
 ---
 
