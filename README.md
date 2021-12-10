@@ -1,5 +1,10 @@
 # SeqTO_SynRM
-Implementation of Sequence based Topology Optimization method (SeqTO-v1)
+Implementation of Sequence based Topology Optimization method (SeqTO-v1). 
+
+Based on the following paper:
+
+[https://ieeexplore.ieee.org/abstract/document/8960651](Sequence-Based Environment for Topology Optimization)
+A. Khan, C. Midha and D. A. Lowther, "Sequence-Based Environment for Topology Optimization," in IEEE Transactions on Magnetics, vol. 56, no. 3, pp. 1-4, March 2020, Art no. 7510904, doi: 10.1109/TMAG.2019.2960731.
 
 ---
 A new Topology Optimization methodology is presented for the application of electromagnetic designs, which is termed as SeqTO (Sequence Based Topology Optimization). Topology Optimization is an important engineering tool for obtaining novel designs and is successfully applied in engineering domains of structural, mechanical and aerospace.
