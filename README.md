@@ -3,7 +3,8 @@ Implementation of Sequence based Topology Optimization method (SeqTO-v1).
 
 Based on the following paper:
 
-[https://ieeexplore.ieee.org/abstract/document/8960651](Sequence-Based Environment for Topology Optimization)
+[https://ieeexplore.ieee.org/abstract/document/8960651](https://ieeexplore.ieee.org/abstract/document/8960651)
+
 A. Khan, C. Midha and D. A. Lowther, "Sequence-Based Environment for Topology Optimization," in IEEE Transactions on Magnetics, vol. 56, no. 3, pp. 1-4, March 2020, Art no. 7510904, doi: 10.1109/TMAG.2019.2960731.
 
 ---
