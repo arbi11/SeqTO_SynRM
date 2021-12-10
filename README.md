@@ -15,11 +15,11 @@ Furthermore, such a method facilitates the application of Reinforcement Learning
 
 Design Domain: 
 
-![SynRM_dual_blank2](https://user-images.githubusercontent.com/25873155/145520904-9d5bf37d-667c-44e8-a601-e8d959902d28.png =250x250)
+![SynRM_dual_blank2](https://user-images.githubusercontent.com/25873155/145520904-9d5bf37d-667c-44e8-a601-e8d959902d28.png width="400" height="790")
 
 SynRM with optimized rotor:
 
-![SyncRM_dual_end2](https://user-images.githubusercontent.com/25873155/145520842-ce61307d-4cc7-4293-991e-858369dc4ad3.png =250x250)
+![SyncRM_dual_end2](https://user-images.githubusercontent.com/25873155/145520842-ce61307d-4cc7-4293-991e-858369dc4ad3.png width="400" height="790")
 
 ---
 
