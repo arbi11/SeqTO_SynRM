@@ -17,6 +17,8 @@ Design Domain:
 
 ![SynRM_dual_blank2](https://user-images.githubusercontent.com/25873155/145520904-9d5bf37d-667c-44e8-a601-e8d959902d28.png width="200" height="200")
 
+<img src="https://user-images.githubusercontent.com/25873155/145520904-9d5bf37d-667c-44e8-a601-e8d959902d28.png" width="100" height="100">
+
 SynRM with optimized rotor:
 
 ![SyncRM_dual_end2](https://user-images.githubusercontent.com/25873155/145520842-ce61307d-4cc7-4293-991e-858369dc4ad3.png width="200" height="200")
